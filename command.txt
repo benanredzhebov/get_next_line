@@ -1,0 +1,13 @@
+total 1800
+drwxr-xr-x  12 beredzhe  2023_wolfsburg     408 Dec 14 10:02 .
+drwx------@ 10 beredzhe  2023_wolfsburg     340 Dec 13 11:43 ..
+-rwxr-xr-x   1 beredzhe  2023_wolfsburg   50104 Dec 14 08:51 a.out
+-rw-r--r--   1 beredzhe  2023_wolfsburg       0 Dec 14 10:02 command.txt
+-rw-r--r--   1 beredzhe  2023_wolfsburg    2431 Dec 14 09:34 get_next_line.c
+-rw-r--r--   1 beredzhe  2023_wolfsburg    1363 Dec 14 08:51 get_next_line.h
+-rw-r--r--   1 beredzhe  2023_wolfsburg  792472 Dec 14 08:51 get_next_line.h.gch
+-rw-r--r--   1 beredzhe  2023_wolfsburg    2027 Dec 14 08:40 get_next_line_utils.c
+-rwxr-xr-x   1 beredzhe  2023_wolfsburg   50104 Dec 14 08:54 gnl
+drwxr-xr-x   3 beredzhe  2023_wolfsburg     102 Dec 14 08:56 gnl.dSYM
+-rw-r--r--   1 beredzhe  2023_wolfsburg    1169 Dec 14 08:50 main.c
+-rw-r--r--   1 beredzhe  2023_wolfsburg      22 Dec 14 08:54 test.txt

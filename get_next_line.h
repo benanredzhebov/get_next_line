@@ -6,18 +6,18 @@
 /*   By: beredzhe <beredzhe@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/12 15:09:17 by beredzhe          #+#    #+#             */
-/*   Updated: 2023/12/14 11:22:45 by beredzhe         ###   ########.fr       */
+/*   Updated: 2023/12/15 19:02:18 by beredzhe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 
-#ifndef BUFFER_SIZE
-# define BUFFER_SIZE 32
-# define MAX_LINE 10100
-# define MAX_FD 1024
-#endif
+# ifndef BUFFER_SIZE
+# define BUFFER_SIZE 42
+# endif
+// # define MAX_LINE 10100
+// # define MAX_FD 1024
 
 # include <unistd.h>
 # include <stdlib.h>
